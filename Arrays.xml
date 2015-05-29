@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Person_names">
+        <item>Arnold</item>
+        <item>Dhoni</item>
+        <item>Jessica</item>
+        <item>Kajol</item>
+        <item>Kangana</item>
+        <item>LarryPage</item>
+    </string-array>
+    <array name="Images">
+        <item>@drawable/arnold</item>
+        <item>@drawable/dhoni</item>
+        <item>@drawable/jessica</item>
+        <item>@drawable/kajol</item>
+        <item>@drawable/kangana</item>
+        <item>@drawable/larry</item>
+    </array>
+
+</resources>
